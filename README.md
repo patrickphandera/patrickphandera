@@ -1,9 +1,6 @@
-Hi there, I'm Patrick Phandera! 👋😊
+👋 Hey, I'm Patrick Phandera 🇲🇼
 
-Welcome to my GitHub profile!
-
-I'm a Software Developer and Data Science graduate from Malawi 🇲🇼, passionate about building useful software, exploring artificial intelligence, and solving real-world problems through technology. I have experience in backend development, database engineering, API integrations, and AI-powered applications.
-
+Software Developer & AI Enthusiast passionate about building smart solutions, exploring new technologies, and turning ideas into reality. 🚀
 🛠️ Tech Stack
 
 <p align="left">
