@@ -6,7 +6,7 @@ Here are some of the projects I've worked on and contributed to:
 
 - **[Tikketa](https://www.tikketa.com/)**
 - **[Nzeru Geo](https://geo.nzeru.online/)**
-- **[Codivus Coding Agent](https://code.codivus.africa/)**
+- **[Codivus Code](https://code.codivus.africa/)**
 - **[Codivus Trust](http://trust.codivus.africa/)**
 - **[Tokiva](https://tokiva.nzeru.online/)**
 - **[Nzeru Academy](https://nzeruacademy.com/)**
