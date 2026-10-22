@@ -2,19 +2,19 @@
 
 Software Developer & AI Engineer passionate about building smart solutions, exploring new technologies, and turning ideas into reality. 🚀
 
-🛠️ Languages & Frameworks
+Languages & Frameworks
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,cs,java,php,dotnet,nodejs,nestjs,express,fastapi,flask" />
 </p>
 
-🎨 Frontend Development
+Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vuetify,html,css" />
 </p>
 
-🗄️ Databases & Data Analytics
+Databases & Data Analytics
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
@@ -25,7 +25,7 @@ Software Developer & AI Engineer passionate about building smart solutions, expl
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-🤖 AI & Machine Learning
+AI & Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,huggingface" />
@@ -37,13 +37,13 @@ Software Developer & AI Engineer passionate about building smart solutions, expl
   <img src="https://img.shields.io/badge/AI_Agents-6C5CE7?style=for-the-badge" />
 </p>
 
-☁️ Cloud, DevOps & Tools
+Cloud, DevOps & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,gitlab,bitbucket,linux,bash,postman,vscode,raspberrypi" />
 </p>
 
-🌍 Integrations & Other Technologies
+Integrations & Other Technologies
 
 <p>
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
