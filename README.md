@@ -125,6 +125,9 @@ Cloud, DevOps & Tools
   </a>
 </p>
 <p>
+  <a href="tel:+265987458428" title="Call Me">
+    <img src="https://img.shields.io/badge/Phone-Call-28A745?logo=googlevoice&logoColor=white" alt="Phone" />
+  </a>
   Phone: 265 (0) 987 458 428 / 265 (0) 885 092 148, Email: patrickphandera@gmail.com
 </p>
 
