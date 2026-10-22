@@ -1,26 +1,26 @@
-## 👋 Hey, I'm Patrick Phandera 🇲🇼
+👋 Hey, I'm Patrick Phandera 🇲🇼
 
 Software Developer & AI Engineer passionate about building smart solutions, exploring new technologies, and turning ideas into reality. 🚀
 
-## 💻 Programming Languages
+Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,cs,java,php" alt="Programming Languages" />
 </p>
 
-## ⚙️ Backend Development
+Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,express,fastapi,flask" alt="Backend Technologies" />
 </p>
 
-## 🎨 Frontend Development
+Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vuetify,html,css" alt="Frontend Technologies" />
 </p>
 
-## 🗄️ Databases
+ 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" alt="Databases" />
@@ -28,7 +28,7 @@ Software Developer & AI Engineer passionate about building smart solutions, expl
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 </p>
 
-## 📊 Data Analytics & BI
+Data Analytics & BI
 
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
@@ -36,7 +36,7 @@ Software Developer & AI Engineer passionate about building smart solutions, expl
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
 </p>
 
-## 🤖 AI & Machine Learning
+AI & Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,huggingface" alt="AI and Machine Learning" />
@@ -48,13 +48,13 @@ Software Developer & AI Engineer passionate about building smart solutions, expl
   <img src="https://img.shields.io/badge/AI_Agents-6C5CE7?style=for-the-badge" />
 </p>
 
-## ☁️ Cloud, DevOps & Tools
+Cloud, DevOps & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,gitlab,bitbucket,linux,bash,postman,vscode,raspberrypi" alt="Cloud, DevOps and Tools" />
 </p>
 
-## 🔌 Integrations & Other Technologies
+ 🔌 Integrations & Other Technologies
 
 <p>
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
@@ -65,7 +65,7 @@ Software Developer & AI Engineer passionate about building smart solutions, expl
   <img src="https://img.shields.io/badge/Model_Quantization-E65100?style=for-the-badge" />
 </p>
 
-## 🤝 Let's Connect
+ 🤝 Let's Connect
 
 <p>
   <a href="https://linkedin.com/in/patrickphandera"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>
