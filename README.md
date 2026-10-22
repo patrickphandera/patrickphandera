@@ -124,5 +124,8 @@ Cloud, DevOps & Tools
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" title="Email" alt="Email" />
   </a>
 </p>
+<p>
+  Phone: 265 (0) 987 458 428 / 265 (0) 885 092 148, Email: patrickphandera@gmail.com
+</p>
 
 ⭐ Thanks for visiting! Feel free to contact me, and let's build something amazing together.
