@@ -87,4 +87,4 @@ Cloud, DevOps & Tools
   <a href="mailto:patrickphandera@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-⭐ Thanks for visiting! Feel free to explore my repositories, and let's build something amazing together.
+⭐ Thanks for visiting! Feel free to contact me, and let's build something amazing together.
