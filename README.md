@@ -12,6 +12,8 @@ Here are some of the projects I've worked on and contributed to:
 - **<a href="https://tokiva.nzeru.online/" title="Tokiva">Tokiva</a>**
 - **<a href="https://nzeruacademy.com/" title="Nzeru Academy">Nzeru Academy</a>**
 
+- **<a href="https://dreamjobs.africa/" title="Dream Jobs">Dream Jobs</a>** 
+
 *...and many more other exciting projects!*
 
 Programming Languages
