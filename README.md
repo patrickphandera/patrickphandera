@@ -85,7 +85,6 @@ Cloud, DevOps & Tools
 <p>
   <a href="https://linkedin.com/in/patrickphandera"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:patrickphandera@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://codivus.africa"><img src="https://img.shields.io/badge/Codivus_Africa-Visit-0A7C86" alt="Codivus Africa" /></a>
 </p>
 
 ⭐ Thanks for visiting! Feel free to explore my repositories, and let's build something amazing together.
