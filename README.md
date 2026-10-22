@@ -2,8 +2,6 @@
 
 Software Developer & AI Engineer passionate about building smart solutions, exploring new technologies, and turning ideas into reality. 🚀
 
-Featured Projects
-
 Here are some of the projects I've worked on and contributed to:
 
 - **[Tikketa](https://www.tikketa.com/)**
@@ -14,8 +12,6 @@ Here are some of the projects I've worked on and contributed to:
 - **[Codivus Coding Agent](https://code.codivus.africa/)**
 
 *...and many more exciting projects! 🚀*
-
-
 
 Programming Languages
 
