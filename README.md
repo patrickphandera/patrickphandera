@@ -5,7 +5,7 @@ Software Developer & AI Engineer passionate about building smart solutions, expl
 Here are some of the projects I've worked on and contributed to:
 
 - **[Tikketa](https://www.tikketa.com/)**
-- **[Nzeru Geo](https://geo.nzeru.online/)**
+- **[Nzeru Geo](https://geo.nzeru.online/)** 
 - **[Codivus Code](https://code.codivus.africa/)**
 - **[Codivus Trust](http://trust.codivus.africa/)**
 - **[Tokiva](https://tokiva.nzeru.online/)**
