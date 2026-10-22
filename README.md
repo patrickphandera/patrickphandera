@@ -125,7 +125,7 @@ Cloud, DevOps & Tools
   </a>
 </p>
 <p>
-  📞: 265 (0) 987 458 428 / 265 (0) 885 092 148 <br> >📧: patrickphandera@gmail.com
+  📞: 265 (0) 987 458 428 / 265 (0) 885 092 148 <br> 📧: patrickphandera@gmail.com
 </p>
 
 ⭐ Thanks for visiting! Feel free to contact me, and let's build something amazing together.
