@@ -31,6 +31,8 @@ Frontend Development
 Data Analytics & BI
 
 <p>
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <br/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Pentaho-005A9C?style=for-the-badge" alt="Pentaho" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
@@ -45,6 +47,8 @@ AI & Machine Learning
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="PydanticAI" />
   <img src="https://img.shields.io/badge/AI_Agents-6C5CE7?style=for-the-badge" />
 </p>
 
