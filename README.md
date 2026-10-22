@@ -6,12 +6,12 @@ Here are some of the projects I've worked on and contributed to:
 
 - **[Tikketa](https://www.tikketa.com/)**
 - **[Nzeru Geo](https://geo.nzeru.online/)**
-- **[Nzeru Academy](https://nzeruacademy.com/)**
-- **[Tokiva](https://tokiva.nzeru.online/)**
-- **[Codivus Trust](http://trust.codivus.africa/)**
 - **[Codivus Coding Agent](https://code.codivus.africa/)**
+- **[Codivus Trust](http://trust.codivus.africa/)**
+- **[Tokiva](https://tokiva.nzeru.online/)**
+- **[Nzeru Academy](https://nzeruacademy.com/)**
 
-*...and many more exciting projects! 🚀*
+*...and many more other exciting projects!*
 
 Programming Languages
 
