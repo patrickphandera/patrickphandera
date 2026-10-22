@@ -2,6 +2,21 @@
 
 Software Developer & AI Engineer passionate about building smart solutions, exploring new technologies, and turning ideas into reality. 🚀
 
+Featured Projects
+
+Here are some of the projects I've worked on and contributed to:
+
+- **[Tikketa](https://www.tikketa.com/)**
+- **[Nzeru Academy](https://nzeruacademy.com/)**
+- **[Tokiva](https://tokiva.nzeru.online/)**
+- **[Nzeru Geo](https://geo.nzeru.online/)**
+- **[Codivus Trust](http://trust.codivus.africa/)**
+- **[Codivus Coding Agent](https://code.codivus.africa/)**
+
+*...and many more exciting projects! 🚀*
+
+
+
 Programming Languages
 
 <p>
