@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Patrick Phandera 🇲🇼
+## 👋 Hey, I'm Patrick Phandera 🇲🇼
 
 Software Developer & AI Engineer passionate about building smart solutions, exploring new technologies, and turning ideas into reality. 🚀
 
